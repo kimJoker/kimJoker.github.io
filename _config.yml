@@ -54,5 +54,5 @@ plugins:
 
 remote_theme: jekyll/minima
 
-url: "https://joker.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://kimJoker.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl:
